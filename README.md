@@ -86,6 +86,7 @@ Make sure SampleScene is the scene in use (there is only one scene).
 ---
 
 ## Running the Simulation
+Make sure SampleScene is the scene in use (there is only one scene).
 
 1. Click the **Play** button in Unity
 2. Once the scene starts, click the **"Simulator"** button on screen — this will open the simulation UI
