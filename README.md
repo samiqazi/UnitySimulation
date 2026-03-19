@@ -47,7 +47,7 @@ Unity should automatically install dependencies, but if not:
 ---
 
 ## Running the Simulation
-
+Make sure you are in the scene called SampleScene and that the mini oil rig environment is visible
 1. Click the **Play** button in Unity
 2. Once the scene starts, click the **"Simulator"** button on screen — this will open the simulation UI
 3. Use the UI controls to interact with and run the evacuation scenario
