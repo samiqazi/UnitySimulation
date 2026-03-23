@@ -20,12 +20,12 @@ Before running the project, ensure you have the following installed:
 ```bash
 git clone https://github.com/LiandarJoshua/UnitySimulation.git
 ```
-
+Unzip the file
 ### 2. Open the Project in Unity
 
 1. Open **Unity Hub**
 2. Click **Add**
-3. Select the cloned project folder
+3. Select the cloned project folder,  there might be a folder within the folder with the same name, select that.
 4. Ensure the correct Unity version is selected
 5. Click **Open**
 ### 3. Open the Main Scene (IMPORTANT): Otherwise it wont spawn
