@@ -9,7 +9,7 @@
 Before running the project, ensure you have the following installed:
 
 - **Unity Hub** → [https://unity.com/download](https://unity.com/download)
-- **Unity Version:** 6
+- **Unity Version:** 6.3 LTS
 
 ---
 
