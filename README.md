@@ -28,7 +28,15 @@ git clone https://github.com/LiandarJoshua/UnitySimulation.git
 3. Select the cloned project folder
 4. Ensure the correct Unity version is selected
 5. Click **Open**
+### 3. Open the Main Scene (IMPORTANT): Otherwise it wont spawn
 
+After opening the project: 
+
+1. Go to the **Project** window  (Bottom Left)
+2. Navigate to:  Assets → Scenes
+3. Double-click **SampleScene** to open it  
+
+> ⚠️ If you skip this step, the scene may appear empty or missing assets.
 ### 3. Install Required Packages
 
 Unity should automatically install dependencies, but if not:
